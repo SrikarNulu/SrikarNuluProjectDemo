@@ -1,8 +1,10 @@
 java imp concepts
-conditionals
-loops
-methods
+
+static methods, members
+non static members
 constructors
 oops
 exception handling
+collection framework
+
 
