@@ -1,0 +1,13 @@
+java imp concepts
+class
+Object
+
+static members
+non static members
+constructors
+
+oops- inheritance, encapsulation, polymorphism, abstraction
+exception handling
+collection framework
+
+
