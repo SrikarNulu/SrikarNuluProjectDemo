@@ -6,7 +6,7 @@ static members
 non static members
 constructors
 
-oops- (inheritance, encapsulation, polymorphism, abstraction)
+oops- inheritance, encapsulation, polymorphism, abstraction
 exception handling
 collection framework
 
